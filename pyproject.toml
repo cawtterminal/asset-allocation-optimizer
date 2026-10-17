@@ -9,7 +9,7 @@ description = "Portfolio analytics, risk metrics and mean-variance optimization 
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "TU_NOMBRE" }]
+authors = [{ name = "Abril Pagano" }]
 keywords = ["finance", "portfolio", "optimization", "risk", "markowitz", "streamlit"]
 classifiers = [
     "Programming Language :: Python :: 3",
