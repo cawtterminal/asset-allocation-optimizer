@@ -5,7 +5,7 @@
 ![Tests](https://img.shields.io/badge/tests-pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Code style](https://img.shields.io/badge/code%20style-ruff-D7FF64)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-[![CI](https://github.com/TU_USUARIO/asset-allocation-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/TU_USUARIO/asset-allocation-optimizer/actions/workflows/ci.yml)
+[![CI](https://github.com/cawtterminal/asset-allocation-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/cawtterminal/asset-allocation-optimizer/actions/workflows/ci.yml)
 
 Librería de **análisis y optimización de portafolios de inversión** con un **dashboard interactivo** en Streamlit. Descarga precios reales desde Yahoo Finance, calcula métricas de riesgo profesionales, construye la **frontera eficiente de Markowitz**, compara políticas de rebalanceo con costos de transacción y proyecta escenarios futuros con **simulación Monte Carlo**.
 
