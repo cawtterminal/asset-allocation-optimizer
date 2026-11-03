@@ -122,7 +122,7 @@ La lógica financiera vive en el paquete `asset_allocation_optimizer` y no depen
 Requiere Python 3.11 o superior.
 
 ```bash
-git clone https://github.com/TU_USUARIO/asset-allocation-optimizer.git
+git clone https://github.com/cawtterminal/asset-allocation-optimizer.git
 cd asset-allocation-optimizer
 python -m venv .venv
 source .venv/bin/activate        # En Windows: .venv\Scripts\activate
